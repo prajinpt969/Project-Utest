@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-10T15:10:36 IST" name="Suite" finished-at="2023-02-10T15:13:19 IST" duration-ms="162778">
+    <groups>
+    </groups>
+    <test started-at="2023-02-10T15:10:36 IST" name="Test" finished-at="2023-02-10T15:13:19 IST" duration-ms="162778">
+      <class name="testCases.uTest_Method">
+        <test-method is-config="true" signature="launch_test()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:10:36 IST" name="launch_test" finished-at="2023-02-10T15:11:24 IST" duration-ms="48328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_test -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:24 IST" name="start_method" finished-at="2023-02-10T15:11:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTest_google()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:24 IST" name="uTest_google" finished-at="2023-02-10T15:11:35 IST" duration-ms="10640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTest_google -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:35 IST" name="exit_method" finished-at="2023-02-10T15:11:36 IST" duration-ms="295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTest_google status=SUCCESS method=uTest_Method.uTest_google()[pri:0, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:36 IST" name="start_method" finished-at="2023-02-10T15:11:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTest_Home()[pri:1, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:36 IST" name="uTest_Home" finished-at="2023-02-10T15:11:45 IST" duration-ms="8931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTest_Home -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:45 IST" name="exit_method" finished-at="2023-02-10T15:11:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTest_Home status=SUCCESS method=uTest_Method.uTest_Home()[pri:1, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:45 IST" name="start_method" finished-at="2023-02-10T15:11:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTest_first()[pri:2, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:11:45 IST" name="uTest_first" finished-at="2023-02-10T15:12:21 IST" duration-ms="36424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTest_first -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:21 IST" name="exit_method" finished-at="2023-02-10T15:12:21 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTest_first status=SUCCESS method=uTest_Method.uTest_first()[pri:2, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:21 IST" name="start_method" finished-at="2023-02-10T15:12:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTestSecond()[pri:3, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:21 IST" name="uTestSecond" finished-at="2023-02-10T15:12:42 IST" duration-ms="20723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTestSecond -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:42 IST" name="exit_method" finished-at="2023-02-10T15:12:42 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTestSecond status=SUCCESS method=uTest_Method.uTestSecond()[pri:3, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:42 IST" name="start_method" finished-at="2023-02-10T15:12:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTestthird()[pri:4, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:12:42 IST" name="uTestthird" finished-at="2023-02-10T15:13:14 IST" duration-ms="32613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTestthird -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:13:14 IST" name="exit_method" finished-at="2023-02-10T15:13:14 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTestthird status=SUCCESS method=uTest_Method.uTestthird()[pri:4, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="start_method()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:13:14 IST" name="start_method" finished-at="2023-02-10T15:13:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_method -->
+        <test-method signature="uTestfourth()[pri:5, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:13:14 IST" name="uTestfourth" finished-at="2023-02-10T15:13:17 IST" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTestfourth -->
+        <test-method is-config="true" signature="exit_method(org.testng.ITestResult)[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:13:17 IST" name="exit_method" finished-at="2023-02-10T15:13:17 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uTestfourth status=SUCCESS method=uTest_Method.uTestfourth()[pri:5, instance:testCases.uTest_Method@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_method -->
+        <test-method is-config="true" signature="exit_test()[pri:0, instance:testCases.uTest_Method@130c12b7]" started-at="2023-02-10T15:13:17 IST" name="exit_test" finished-at="2023-02-10T15:13:19 IST" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_test -->
+      </class> <!-- testCases.uTest_Method -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
